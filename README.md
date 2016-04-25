@@ -1,2 +1,2 @@
 # Park-SeongJun
-uhm
+Hi! This is edited README file.
